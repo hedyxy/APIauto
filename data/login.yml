@@ -1,0 +1,18 @@
+-
+  url :
+  method :
+  data :
+    username :
+    passwd :
+  check :
+    - sign
+    - userId
+
+-
+  url :
+  method :
+  data :
+    username :
+  check :
+    error_code :
+  is_json : 1
